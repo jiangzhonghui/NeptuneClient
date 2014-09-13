@@ -1,3 +1,5 @@
+package neptune.client.network;
+
 public class PacketsList{
 
 public static final int CURRENT_PROTOCOL = 18;
